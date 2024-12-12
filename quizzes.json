@@ -1,0 +1,168 @@
+{
+  "flutter": [
+    {
+      "question": "What is the primary programming language used in Flutter?",
+      "options": [
+        "Java",
+        "Kotlin",
+        "Dart",
+        "Swift"
+      ],
+      "correct_option": "Dart",
+      "explanation": "Dart is the official programming language developed by Google for building Flutter applications. It provides excellent performance and supports both mobile and web platforms."
+    },
+    {
+      "question": "Which widget is used to create a scrollable list in Flutter?",
+      "options": [
+        "ScrollView",
+        "ListView",
+        "Container",
+        "Column"
+      ],
+      "correct_option": "ListView",
+      "explanation": "ListView is the primary widget used in Flutter for creating scrollable lists. It efficiently renders only the visible items and supports both fixed and dynamic lists."
+    },
+    {
+      "question": "What is a StatefulWidget in Flutter?",
+      "options": [
+        "A widget that never changes",
+        "A widget that can change its appearance based on user interaction",
+        "A widget used only for animations",
+        "A widget used only for layouts"
+      ],
+      "correct_option": "A widget that can change its appearance based on user interaction",
+      "explanation": "StatefulWidget is a widget that can change its appearance over time in response to user interactions or other events. It maintains mutable state that can be updated during the widget's lifetime."
+    },
+    {
+      "question": "What is the primary programming language used in Flutter?",
+      "options": [
+        "Java",
+        "Kotlin",
+        "Dart",
+        "Swift"
+      ],
+      "correct_option": "Dart",
+      "explanation": "Dart is the official programming language developed by Google for building Flutter applications. It provides excellent performance and supports both mobile and web platforms."
+    }
+  ],
+  "linux": [
+    {
+      "question": "Which command is used to list files in Linux?",
+      "options": [
+        "dir",
+        "ls",
+        "list",
+        "show"
+      ],
+      "correct_option": "ls",
+      "explanation": "The 'ls' command is used to list directory contents in Linux. It's one of the most fundamental commands in Linux systems."
+    },
+    {
+      "question": "What is the root directory in Linux?",
+      "options": [
+        "/root",
+        "/home",
+        "/",
+        "/etc"
+      ],
+      "correct_option": "/",
+      "explanation": "In Linux, '/' represents the root directory, which is the top-level directory in the filesystem hierarchy."
+    }
+  ],
+  "cybersecurity": [
+    {
+      "question": "What is a SQL injection attack?",
+      "options": [
+        "A virus that affects SQL databases",
+        "A malicious SQL query insertion into application input",
+        "A tool for database management",
+        "A type of database encryption"
+      ],
+      "correct_option": "A malicious SQL query insertion into application input",
+      "explanation": "SQL injection is a type of attack where malicious SQL code is inserted into application input fields to manipulate or gain unauthorized access to the database."
+    },
+    {
+      "question": "What does SSL stand for?",
+      "options": [
+        "Secure Socket Layer",
+        "System Security Layer",
+        "Server Side Language",
+        "Secure System Logic"
+      ],
+      "correct_option": "Secure Socket Layer",
+      "explanation": "SSL (Secure Socket Layer) is a security protocol that provides privacy and data integrity between two communicating applications."
+    }
+  ],
+  "web_development": [
+    {
+      "question": "What does HTML stand for?",
+      "options": [
+        "Hyper Text Markup Language",
+        "High Technical Modern Language",
+        "Hyper Transfer Markup Language",
+        "High Text Machine Language"
+      ],
+      "correct_option": "Hyper Text Markup Language",
+      "explanation": "HTML (Hyper Text Markup Language) is the standard markup language for creating web pages and web applications."
+    },
+    {
+      "question": "Which of these is not a JavaScript framework?",
+      "options": [
+        "React",
+        "Angular",
+        "Django",
+        "Vue"
+      ],
+      "correct_option": "Django",
+      "explanation": "Django is a Python web framework, not a JavaScript framework. React, Angular, and Vue are all JavaScript frameworks."
+    }
+  ],
+  "python": [
+    {
+      "question": "What is the correct way to create a function in Python?",
+      "options": [
+        "function myFunction():",
+        "def myFunction():",
+        "create myFunction():",
+        "func myFunction():"
+      ],
+      "correct_option": "def myFunction():",
+      "explanation": "In Python, functions are defined using the 'def' keyword followed by the function name and parentheses."
+    },
+    {
+      "question": "Which of these is a mutable data type in Python?",
+      "options": [
+        "String",
+        "Tuple",
+        "List",
+        "Integer"
+      ],
+      "correct_option": "List",
+      "explanation": "Lists are mutable data types in Python, meaning their contents can be changed after creation. Strings, tuples, and integers are immutable."
+    }
+  ],
+  "general_programming": [
+    {
+      "question": "What is an algorithm?",
+      "options": [
+        "A programming language",
+        "A step-by-step procedure for solving a problem",
+        "A type of computer",
+        "A database management system"
+      ],
+      "correct_option": "A step-by-step procedure for solving a problem",
+      "explanation": "An algorithm is a finite sequence of well-defined instructions used to solve a problem or perform a computation."
+    },
+    {
+      "question": "What does IDE stand for?",
+      "options": [
+        "Integrated Development Environment",
+        "Interface Design Environment",
+        "Internal Development Engine",
+        "Integrated Design Engine"
+      ],
+      "correct_option": "Integrated Development Environment",
+      "explanation": "An IDE (Integrated Development Environment) is a software application that provides comprehensive facilities for software development."
+    }
+  ]
+}
