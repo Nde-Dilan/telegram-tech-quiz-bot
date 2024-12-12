@@ -86,6 +86,7 @@ quiz_manager.add_quiz(
 ## 🚧 Potential Improvements
 
 - [ ] Add more quiz categories
+- [ ] Deploy to AWS Lambda to make it available online
 - [ ] Implement user score tracking
 - [ ] Create a web interface for quiz management
 - [ ] Add support for multiple languages
